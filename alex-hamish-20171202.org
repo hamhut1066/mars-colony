@@ -1,0 +1,234 @@
+* Fear Cards
+** Censorship (4)
+** Corruption (5)
+** Loss of Privacy (6)
+* Timeline
+** Day 0 (Personal)
+   Mayor Yang meets with Kelly Perkins off the ship.
+   Kelly is tired and dismisses Mayor Yang before heading to her accommodation
+** Day 1 (Progression) (fail/contempt)
+   Crime
+*** Plan
+    Crack down on police, get them more involved and active in hunting out dealers
+    long-term sting operation ~1 year
+    she wants to get funding to start up a rehabilitation center for the users of the drug
+    Slightly increase police presence (in line with her political ideology)
+*** act 1 (8)
+    Kelly has a basic information network setup.
+    Her next plan of action is to engage in her plan
+
+    Meeting with:
+    - President Arnold Fletcher
+    - Mayor Yang
+    - Chief of Security Lloyds
+      
+    An update on the progress of the setup.
+
+    President Arnold dresses down Kelly as there has been no tangible progress
+*** act 2 (16)
+    Kelly explains that she in on schedule with the plan. assures the
+    president that everything should be operational within the year.
+
+    The police are still a little difficult to control due to them
+    still being loyal to the council
+*** act 3 (20)
+    Major dealer has been found.
+
+    Still haven't found the corrupt official, but am one connection away.
+*** act 4 (26)
+    Found another supplier.
+    There are still multiple streams of red dust coming into the colony.
+*** act 5 (34)
+    She knows nearly the whole network.
+    Supplies are running low
+    Drug prices are increasing
+    Drugs keep disappearing from evidence
+*** act 6 (fail) (contempt)
+    It has been a year.
+    A new batch has come in.
+    People are disheartened that drugs are still a problem.
+** Day 2 (Opposition) (success/crime 26)
+*** Situation
+    Riots on the streets due to exposed corruption within the
+    political body.
+
+    Internal Affairs Hanar approaches Kelly to talk about the riots on
+    the streets
+*** Plan
+    Increase police presence to distrupt riots
+*** act 1 (7)
+    Police have started patrolling the streets
+    a few clashes, but the riots are less frequent
+*** act 2 (17)
+    A few skirmishes breaking out
+    Arrests of several low-level officials for corruption
+    A show of face
+*** act 3 (26) (quit)
+    A few sparks of rioting here and there.
+    Fears are put to rest temporarily
+
+    Drug problems are lessened
+** Day 3 (Personal)
+*** Dinner with Brother
+    it's been a year, have had several meetings.
+    She knows about his drug addiction. He is in hospital
+
+    idle chat.
+
+    Kelly brings up his red dust addiction.
+    
+    Is motivated to crack down on Crime due to her brother being affected
+** Day 4 (Opposition) (fail/deception/radiation 21)
+*** Situation
+    On tv with Mayor Yang
+    Chase brings up the Docks
+    Radiation shielding hasn't been repaired since initial
+    colonisation
+
+    Kelly brings up her success in crime
+
+    it hasn't been a high priority, but we are aware of the situation
+
+    incomplete plan, so don't want to release a partial solution on the air
+
+    ** 2 weeks later **
+
+    Fractures in the dome causing structural issues.
+    High priority, action needed immediately
+*** Plan
+    www.solving-mars-problems.gov
+    
+    Assign engineers on a rotating basis on a 24 hour basis.
+    Temporary housing has been constructed while the repairs are being carried out
+*** act 1 (7)
+    All going along smoothly.
+    Rehousing had no significant issues
+    Hab depressurised, and are diagnosing the issue
+*** act 2 (12)
+    No significant progress
+    A couple of plates have been taken off
+*** act 3 (21)
+    Problem has been successfully identified
+    Manufacture of new plates is underway
+    A few have been replaced
+
+    A fault in the materials, There was wear and tear on the plates.
+    Protection from radiation was no longer occurring
+*** act 4 (fail/deception)
+    Much deeper issue than originally suspected.
+
+    Major components were replaced, although 
+
+    Temporary housing was too much of an issue.
+
+    Kelly claimed radiation was eliminated, although trace amounts are still around.
+    Reporters claimed results as 'within habitable parameters'
+** Day 5 (Progress) (success/radiation)
+*** Plan
+    Deal with radiation in the previous habitat
+*** act 1 (8)
+    Engineers are working successfully at night to avoid notice.
+
+    running costs are higher than previous round.
+*** act 2 (13)
+    Progress is slow but steady
+*** act 3 (22) (quit)
+    Radiation is fully resolved
+** Day 6 (Personal)
+*** Schedule
+    Performance review
+
+    Rep. Cecil Flanders
+
+    complements your results with regard to the radiation issue. They
+    think you the situation admirably. Feel reassured in their
+    decision to elect you as consultant to the Mars Colony.
+
+    Cecil says your social and infrastucture policies are effective.
+    Cecil would also like to maintain the political status quo
+
+    Kelly has no intention of upsetting the status quo. /while
+    secretly vying for the mayorship/.
+
+    She feels she can do more
+** Day 7 (Progress) (fail/contempt)
+*** Plan
+    More motivated since her brother is in rehab.
+    was distracted due to media attention regarding the radiation
+    
+    Find the kingpin, and take them down.
+*** act 1 (fail/contempt)
+** Day 8 (Opposition) (fail/contempt)
+*** Situation
+    Job Starvation
+*** Plan
+    For a new society to thrive.
+    Discipline is needed
+    people need to accept things without understanding what is
+    happening
+    
+    implement conscription for those without work.
+    Police force are given a stipend.
+    Bed and Board supplied.
+    Job searching is allowed when in the force.
+*** act 1 (6)
+    Spoken to the police and they are willing to take these people on
+    depending on government subsidies.
+
+    Will accept for a period of time
+*** act 2 (10)
+    A few people have been moved off the street.
+*** act 3 (16)
+    People are signing up regularly
+    No serious issues
+    President has been updated
+    public is keeping a close eye on the situation
+*** act 4 (fail/contempt)
+    People weren't too motivated to actually join the police force.
+    They weren't very close with in first place as they were hunted by
+    the police
+** Day 9 (Progress) (fail/scandal)
+*** Plan
+    Same plan
+    Enact law rather than incentives
+*** act 1 (fail/scandal)
+    The police went on strike, saying they would quit if the law was
+    enacted.
+** Day 10 (Personal)
+*** Situation
+    Brother goes to meet Kelly
+
+    Pep talk
+** Day 11 (Progress) (fail/contempt)
+*** Plan
+    Fix crime stuff
+*** act 1 (fail/contempt)
+** End Game
+   
+   Drugs move off the streets and into the homes
+
+   Labour, not enough jobs, too many people in the second gen.
+
+   Radiation, area is habitable again, begrudgingly respectful of your
+   attempts to fix your mistakes, even if it was behind their backs.
+
+  ** Kelly **
+  A string of dissapointments
+
+  In a small community, she decides to head home.
+
+  Takes a low-level position back on earth where she stops seeking
+  power and glory.
+
+  Dies at 45 where she kills herself due to the guilt of having failed
+  the Mars Colony
+
+  She has been cast out of her family, specifically her father who
+  disapproved of the scandal.
+
+  ** Andrew Perkins **
+
+  Reverts back to addiction after the death of his Sister
+    
+
+    
